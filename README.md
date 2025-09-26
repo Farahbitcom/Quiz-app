@@ -1,4 +1,4 @@
 # Quiz-app
 A simple Quiz app using Html, CSS, and Javascript 
 <br>
-Author-Farah (let's code)
+Author-Farah (let's code)..

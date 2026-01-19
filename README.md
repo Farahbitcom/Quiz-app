@@ -1,4 +1,1 @@
-# Quiz-app
-A simple Quiz app using Html, CSS, and Javascript 
-<br>
-Author-Farah (let's code)..
+A responsive and interactive Quiz Application developed using HTML, CSS, and JavaScript. The app presents multiple-choice questions, tracks user progress, and displays the final score in real time. It features a clean user interface, smooth transitions, and dynamic question handling to enhance user engagement. This project demonstrates strong fundamentals in JavaScript logic, DOM manipulation, and responsive web design.
